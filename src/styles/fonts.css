@@ -1,0 +1,40 @@
+/*NetflixSans-Regular.woff2*/
+@font-face {
+  font-family: NetflixRegularwOff;
+  src: url("../../src/assets/fonts/NetflixSans-Regular.woff2");
+}
+/*NetflixSans-Regular.otf*/
+@font-face {
+  font-family: NetflixRegular;
+  src: url("../../src/assets/fonts/NetflixSans-Regular.otf");
+}
+/*NetflixSans-Medium.woff2*/
+@font-face {
+  font-family: NetflixMediumwOff;
+  src: url("../../src/assets/fonts/NetflixSans-Medium.woff2");
+}
+/*NetflixSans-Medium*/
+@font-face {
+  font-family: NetflixMedium;
+  src: url("../../src/assets/fonts/NetflixSans-Medium.otf");
+}
+/*NetflixSans-Light.woff2*/
+@font-face {
+  font-family: NetflixLightwOff;
+  src: url("../../src/assets/fonts/NetflixSans-Light.woff2");
+}
+/*NetflixSans-Light.otf*/
+@font-face {
+  font-family: NetflixLight;
+  src: url("../../src/assets/fonts/NetflixSans-Light.otf");
+}
+/*NetflixSans-Bold.woff2*/
+@font-face {
+  font-family: NetflixBoldwOff;
+  src: url("../../src/assets/fonts/NetflixSans-Bold.woff2");
+}
+/*NetflixSans-Bold.otf*/
+@font-face {
+  font-family: NetflixBold;
+  src: url("../../src/assets/fonts/NetflixSans-Bold.otf");
+}
