@@ -3,7 +3,7 @@ import { useForm } from "react-hook-form";
 import useWindowSize from "../../../hooks/useWindowSize";
 import * as S from "./style";
 
-export const SearchBar = () => {
+export const InputRegister = () => {
   const {
     register,
     handleSubmit,

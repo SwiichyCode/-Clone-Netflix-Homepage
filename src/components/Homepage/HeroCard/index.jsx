@@ -1,5 +1,5 @@
 import React from "react";
-import { SearchBar } from "../SearchBar";
+import { InputRegister } from "../InputRegister";
 import * as S from "./style";
 
 export const HeroCard = () => {
@@ -7,7 +7,7 @@ export const HeroCard = () => {
     <S.Container>
       <S.Title>Unlimited movies, TV shows, and more</S.Title>
       <S.Subtitle>Watch anywhere. Cancel anytime.</S.Subtitle>
-      <SearchBar />
+      <InputRegister />
     </S.Container>
   );
 };

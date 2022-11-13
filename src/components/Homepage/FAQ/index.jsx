@@ -1,7 +1,7 @@
 import * as React from "react";
 import { StyledAccordions } from "../Accordion";
 import { FAQdata } from "./data";
-import { SearchBar } from "../SearchBar";
+import { InputRegister } from "../InputRegister";
 import * as S from "./style";
 
 export const FAQ = () => {
@@ -10,7 +10,7 @@ export const FAQ = () => {
       <S.Title>Frequently Asked Questions</S.Title>
       {/* Accordion GROUP */}
       <StyledAccordions data={FAQdata} />
-      <SearchBar />
+      <InputRegister />
     </S.Container>
   );
 };
